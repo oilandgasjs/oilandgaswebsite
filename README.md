@@ -1,2 +1,0 @@
-# oilandgaswebsite
-first project. (TESTING)
